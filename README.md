@@ -1,1 +1,1 @@
-# minetest-shiny-triforce
+# shiny-triforce
