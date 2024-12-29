@@ -1,0 +1,33 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Lua-specific
+*.lua~
+luac.out
+
+# Build/Release Files
+*.zip
+*.tar.gz
+*.tar
+
+# Temporary/Cache Files
+*.bak
+*.tmp
+*.temp
+
+# Mod-specific
+screenshots/
+textures/unused/
+docs/dev/
+
+# Dependencies (if you manage them separately)
+/depends/*
+!/depends/README.md
